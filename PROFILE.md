@@ -1,5 +1,5 @@
 # Beatrice
-## Trainee full stack developer at BlackCodher, studying Politics and Sociology at the University of Warwick, interested in creative directing and producing. 
+## Trainee full stack developer at BlackCodher, I am studying Politics and Sociology at the University of Warwick, interested in creative directing and producing. 
 [my favourite website](https://www.amazon.co.uk/)
 
 **Here is my formatted text, I chose bold instead of italic**
